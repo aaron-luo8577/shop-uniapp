@@ -2,4 +2,4 @@
 
 图片展示
 
-![](E:\project\uniapp\shop-uniapp\shop-uniapp\static\images\hh.gif)
+![](E:\project\uniapp\shop-uniapp\shop-uniapp\hh.gif)
