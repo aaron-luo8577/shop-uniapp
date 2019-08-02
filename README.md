@@ -2,4 +2,5 @@
 
 图片展示
 
-![](E:\project\uniapp\shop-uniapp\shop-uniapp\hh.gif)
+![https://github.com/aaron-luo8577/shop-uniapp/blob/master/hh.gif]()
+
